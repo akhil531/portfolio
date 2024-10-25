@@ -1,0 +1,69 @@
+{
+	"projects":
+	[
+		{
+			"date": 2019,
+			"type": "Personal Project",
+			"title": "Maze Solver",
+			"description": "It is an interactive web application that can create and solve mazes. You can choose among several different algorithms, move the start and the finish or draw your own walls...",
+			"tags":
+			[
+				{ "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" },
+				{ "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML" },
+				{ "name": "CSS", "url": "https://en.wikipedia.org/wiki/CSS" }
+			],
+			"links":
+			[
+				"https://www.angeluriot.com/maze_solver/",
+				"https://github.com/angeluriot/Maze_solver",
+				"https://www.angeluriot.com/maze_solver/"
+			],
+			"video": "resources/videos/projects/Maze_solver.mp4",
+			"image": "resources/images/projects/Maze_solver.webp",
+			"logo": "resources/svgs/projects/Maze_solver.svg",
+			"categories": ["Personal", "Web"]
+		},
+		{
+			"date": 2022,
+			"type": "Personal Project",
+			"title": "Neural Network",
+			"description": "This is a handmade neural network library for Python. It supports multiple layers, activation functions, optimizers... You can easily create a model and train it with backpropagation...",
+			"tags":
+			[
+				{ "name": "Python", "url": "https://www.python.org/" }
+			],
+			"links":
+			[
+				"https://github.com/angeluriot/Neural_network",
+				"https://github.com/angeluriot/Neural_network",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/projects/Neural_network.webp",
+			"logo": "resources/svgs/projects/Neural_network.svg",
+			"categories": ["Personal", "AI"]
+		},
+		{
+			"date": 2021,
+			"type": "Personal Project",
+			"title": "Portfolio",
+			"description": "This project is a website portfolio made to present my computer science projects. It is a one-page responsive website programmed with HTML, CSS, and JavaScript...",
+			"tags":
+			[
+				{ "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML" },
+				{ "name": "CSS", "url": "https://en.wikipedia.org/wiki/CSS" },
+				{ "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" }
+			],
+			"links":
+			[
+				"https://www.angeluriot.com/",
+				"https://github.com/angeluriot/Portfolio",
+				"https://www.angeluriot.com/"
+			],
+			"video": "resources/videos/projects/Portfolio.mp4",
+			"image": "resources/images/projects/Portfolio.webp",
+			"logo": "resources/svgs/projects/Portfolio.svg",
+			"categories": ["Personal", "Web"]
+		}
+	]
+}
