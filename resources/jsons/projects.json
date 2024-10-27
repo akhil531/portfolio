@@ -14,9 +14,7 @@
 			],
 			"links":
 			[
-				"https://www.angeluriot.com/maze_solver/",
-				"https://github.com/angeluriot/Maze_solver",
-				"https://www.angeluriot.com/maze_solver/"
+				"https://github.com/akhil531/maze-solver"
 			],
 			"video": "resources/videos/projects/Maze_solver.mp4",
 			"image": "resources/images/projects/Maze_solver.webp",
@@ -34,14 +32,73 @@
 			],
 			"links":
 			[
-				"https://github.com/angeluriot/Neural_network",
-				"https://github.com/angeluriot/Neural_network",
-				"none"
+				"https://github.com/angeluriot/Neural_network/"
+				
 			],
 			"video": "none",
 			"image": "resources/images/projects/Neural_network.webp",
 			"logo": "resources/svgs/projects/Neural_network.svg",
 			"categories": ["Personal", "AI"]
+		},
+		{
+			"date": 2022,
+			"type": "Personal Project",
+			"title": "Shipping Container Monitoring Cum Tracking System Using GPS & GSM",
+			"description": "This program is an n-body type simulation using GPU acceleration. It is able to simulate galaxies, galaxy collisions and universes. You can choose a lot of parameters like the speed of the stars, the shape of the galaxy, and more...",
+			"tags":
+			[
+				{ "name": "C"},
+				{ "name": "Verilog HDL" },
+				{ "name": "GPS" },
+				{ "name": "GSM" }
+			],
+			"links":
+			[
+				"This system enhances security with discreet monitoring, minimizing the risk of intruder detection. It provides real-time alerts for immediate response to unauthorized access. Its autonomous and customizable design ensures reliable, low-maintenance protection across various environments.s"
+			],
+			"video": "resources/videos/projects/Galaxy_simulation.mp4",
+			"image": "resources/images/projects/Galaxy_simulation.webp",
+			"logo": "resources/svgs/projects/Galaxy_simulation.svg",
+			"categories": ["Personal", "Simulations"]
+		},
+		{
+			"date": 2022,
+			"type": "School Project",
+			"title": "Invisible Security system using embedded system",
+			"description": "This system enhances security with discreet monitoring, minimizing the risk of intruder detection. It provides real-time alerts for immediate response to unauthorized access. Its autonomous and customizable design ensures reliable, low-maintenance protection across various environments.",
+			"tags":
+			[
+				{ "name": "C" },
+				{ "name": "Verilog HDFL" }
+				
+			],
+			"links":
+			[
+				"https://github.com/akhil531"
+				
+			],
+			"video": "resources/videos/projects/Proverbot.mp4",
+			"image": "resources/images/projects/Proverbot.webp",
+			"logo": "resources/svgs/projects/Proverbot.svg",
+			"categories": ["Personal", "Web", "AI"]
+		},
+		{
+			"date": 2024,
+			"type": "Personal Project",
+			"title": "Snake Game",
+			"description": "The game involves controlling a snake to eat food, growing longer with each bite while avoiding collisions with walls and its own tail. Each successful move increases the score and the game’s difficulty. It’s a fun project that combines logic with interactive design.",
+			"tags":
+			[
+				{ "name": "Python"}
+			],
+			"links":
+			[
+				"https://github.com/akhil531/snake-game-pythons"
+			],
+			"video": "resources/videos/projects/2D_fractals_generator.mp4",
+			"image": "resources/images/projects/2D_fractals_generator.webp",
+			"logo": "resources/svgs/projects/2D_fractals_generator.svg",
+			"categories": ["Personal"]
 		},
 		{
 			"date": 2021,
