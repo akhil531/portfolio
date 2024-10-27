@@ -2,7 +2,7 @@
 	"projects":
 	[
 		{
-			"date": 2019,
+			"date": 2021,
 			"type": "Personal Project",
 			"title": "Maze Solver",
 			"description": "It is an interactive web application that can create and solve mazes. You can choose among several different algorithms, move the start and the finish or draw your own walls...",
@@ -22,7 +22,7 @@
 			"categories": ["Personal", "Web"]
 		},
 		{
-			"date": 2022,
+			"date": 2024,
 			"type": "Personal Project",
 			"title": "Neural Network",
 			"description": "This is a handmade neural network library for Python. It supports multiple layers, activation functions, optimizers... You can easily create a model and train it with backpropagation...",
@@ -41,7 +41,7 @@
 			"categories": ["Personal", "AI"]
 		},
 		{
-			"date": 2022,
+			"date": 2023,
 			"type": "Personal Project",
 			"title": "Shipping Container Monitoring Cum Tracking System Using GPS & GSM",
 			"description": "This program is an n-body type simulation using GPU acceleration. It is able to simulate galaxies, galaxy collisions and universes. You can choose a lot of parameters like the speed of the stars, the shape of the galaxy, and more...",
@@ -101,7 +101,7 @@
 			"categories": ["Personal"]
 		},
 		{
-			"date": 2021,
+			"date": 2024,
 			"type": "Personal Project",
 			"title": "Portfolio",
 			"description": "This project is a website portfolio made to present my computer science projects. It is a one-page responsive website programmed with HTML, CSS, and JavaScript...",
@@ -113,14 +113,13 @@
 			],
 			"links":
 			[
-				"https://www.angeluriot.com/",
-				"https://github.com/angeluriot/Portfolio",
-				"https://www.angeluriot.com/"
+				"https://github.com/akhil531/portfolio"
 			],
 			"video": "resources/videos/projects/Portfolio.mp4",
 			"image": "resources/images/projects/Portfolio.webp",
 			"logo": "resources/svgs/projects/Portfolio.svg",
 			"categories": ["Personal", "Web"]
 		}
+
 	]
 }
