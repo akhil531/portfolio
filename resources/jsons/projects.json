@@ -1,0 +1,108 @@
+{
+	"projects":
+	[
+		{
+			"date": 2021,
+			"type": "Personal Project",
+			"title": "Maze Solver",
+			"description": "It is an interactive web application that can create and solve mazes. You can choose among several different algorithms, move the start and the finish or draw your own walls...",
+			"tags":
+			[
+				{ "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" },
+				{ "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML" },
+				{ "name": "CSS", "url": "https://en.wikipedia.org/wiki/CSS" }
+			],
+			"links":
+			[
+				"https://github.com/akhil531/maze-solver"
+			],
+			"video": "resources/videos/projects/Maze_solver.mp4",
+			"image": "resources/images/projects/Maze_solver.webp",
+			"logo": "resources/svgs/projects/Maze_solver.svg",
+			"categories": ["Personal", "Web"]
+		},
+		{
+			"date": 2023,
+			"type": "Personal Project",
+			"title": "Shipping Container Monitoring Cum Tracking System Using GPS & GSM",
+			"description": "This program is an n-body type simulation using GPU acceleration. It is able to simulate galaxies, galaxy collisions and universes. You can choose a lot of parameters like the speed of the stars, the shape of the galaxy, and more...",
+			"tags":
+			[
+				{ "name": "C"},
+				{ "name": "Verilog HDL" },
+				{ "name": "GPS" },
+				{ "name": "GSM" }
+			],
+			"links":
+			[
+				"https://github.com/akhil531/portfolio" 
+			],
+
+			"video": "resources/videos/projects/Galaxy_simulation.mp4",
+			"image": "resources/images/projects/Galaxy_simulation.webp",
+			"logo": "resources/svgs/projects/Galaxy_simulation.svg",
+			"categories": ["Personal", "Simulations"]
+		},
+		{
+			"date": 2022,
+			"type": "School Project",
+			"title": "Invisible Security system using embedded system",
+			"description": "This system enhances security with discreet monitoring, minimizing the risk of intruder detection. It provides real-time alerts for immediate response to unauthorized access. Its autonomous and customizable design ensures reliable, low-maintenance protection across various environments.",
+			"tags":
+			[
+				{ "name": "C" },
+				{ "name": "Verilog HDL" }
+				
+			],
+			"links":
+			[
+				"https://github.com/akhil531"
+				
+			],
+			"video": "resources/videos/projects/Proverbot.mp4",
+			"image": "resources/images/projects/Proverbot.webp",
+			"logo": "resources/svgs/projects/Proverbot.svg",
+			"categories": ["Personal", "Web", "AI"]
+		},
+		{
+			"date": 2024,
+			"type": "Personal Project",
+			"title": "Snake Game",
+			"description": "The game involves controlling a snake to eat food, growing longer with each bite while avoiding collisions with walls and its own tail. Each successful move increases the score and the game’s difficulty. It’s a fun project that combines logic with interactive design.",
+			"tags":
+			[
+				{ "name": "Python"}
+			],
+			"links":
+			[
+				
+				
+			],
+			"video": "resources/videos/projects/2D_fractals_generator.mp4",
+			"image": "resources/images/projects/2D_fractals_generator.webp",
+			"logo": "resources/svgs/projects/2D_fractals_generator.svg",
+			"categories": ["Personal"]
+		},
+		{
+			"date": 2024,
+			"type": "Personal Project",
+			"title": "Portfolio",
+			"description": "This project is a website portfolio made to present my computer science projects. It is a one-page responsive website programmed with HTML, CSS, and JavaScript...",
+			"tags":
+			[
+				{ "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML" },
+				{ "name": "CSS", "url": "https://en.wikipedia.org/wiki/CSS" },
+				{ "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" }
+			],
+			"links":
+			[
+				"https://github.com/akhil531/portfolio"
+			],
+			"video": "resources/videos/projects/Portfolio.mp4",
+			"image": "resources/images/projects/Portfolio.webp",
+			"logo": "resources/svgs/projects/Portfolio.svg",
+			"categories": ["Personal", "Web"]
+		}
+
+	]
+}
